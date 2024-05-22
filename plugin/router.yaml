@@ -1,0 +1,3 @@
+plugins:
+  example.persisted_query_plugin:
+    enabled: true
